@@ -1,0 +1,4 @@
+Name : Daniel
+Occupation : Student
+Hobby : Calisthenics
+Dislike : LOL
